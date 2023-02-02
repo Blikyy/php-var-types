@@ -11,7 +11,7 @@ tady najdete tabulku převodů základních datových typů.
 |1|float|1|
 |1.5|float|1.5|
 |true|float|1|
-|"hello"|flaot|error_message|
+|"hello"|float|error_message|
 |0|bool|false|
 |1.5|bool|true|
 |true|bool|true|
