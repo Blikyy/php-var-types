@@ -1,4 +1,4 @@
-# Variable conversion
+# Převod datových typů
 
 |VAR|TYPE|OUTPUT|  
 |---|---|---|
