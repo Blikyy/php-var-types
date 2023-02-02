@@ -1,5 +1,7 @@
 # Převod datových typů
 
+tady najdete tabulku různých převodů
+
 |VAR|TYPE|OUTPUT|  
 |---|---|---|
 |1|int|1|  
