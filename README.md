@@ -1,6 +1,6 @@
 # Převod datových typů
 
-tady najdete tabulku různých převodů
+tady najdete tabulku převodů základních datových typů.
 
 |VAR|TYPE|OUTPUT|  
 |---|---|---|
